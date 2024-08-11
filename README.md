@@ -13,8 +13,8 @@ Estou construindo um portfólio de projetos voltados para cibersegurança, onde 
 
 ## Projetos em Destaque
 
-- **[Projeto 1: Análise de Vulnerabilidades com OpenVAS](link-para-o-repo)**
-  - Uma análise detalhada de vulnerabilidades utilizando o OpenVAS, incluindo configuração, execução e mitigação das falhas identificadas.
+- **[Projeto 1: Auditoria de Seguranca com OpenVas](https://github.com/pedro-canafistula/Auditoria-de-Seguranca-com-OpenVas)**
+  - Uma análise detalhada de vulnerabilidades em uma rede local utilizando o OpenVAS, incluindo configuração, execução e mitigação das falhas identificadas.
 <!--
 - **[Projeto 2: Configuração de Servidores Seguros](link-para-o-repo)**
   - Passo a passo para configurar servidores com foco em segurança, utilizando ferramentas como Apache2, Ubuntu Server, e mais.
