@@ -15,12 +15,12 @@ Estou construindo um portfólio de projetos voltados para cibersegurança, onde 
 
 - **[Projeto 1: Análise de Vulnerabilidades com OpenVAS](link-para-o-repo)**
   - Uma análise detalhada de vulnerabilidades utilizando o OpenVAS, incluindo configuração, execução e mitigação das falhas identificadas.
-
+<!--
 - **[Projeto 2: Configuração de Servidores Seguros](link-para-o-repo)**
   - Passo a passo para configurar servidores com foco em segurança, utilizando ferramentas como Apache2, Ubuntu Server, e mais.
 
 - **[Projeto 3: Testes de Penetração em Ambientes Virtuais](link-para-o-repo)**
-  - Realização de testes de penetração em ambientes controlados, explorando técnicas de ataque e defesa.
+  - Realização de testes de penetração em ambientes controlados, explorando técnicas de ataque e defesa. -->
 
 ## Contato
 
