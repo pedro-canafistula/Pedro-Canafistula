@@ -15,10 +15,10 @@ Estou construindo um portfólio de projetos voltados para cibersegurança, onde 
 
 - **[Projeto 1: Auditoria de Seguranca com OpenVas](https://github.com/pedro-canafistula/Auditoria-de-Seguranca-com-OpenVas)**
   - Uma análise detalhada de vulnerabilidades em uma rede local utilizando o OpenVAS, incluindo configuração, execução e mitigação das falhas identificadas.
-<!--
-- **[Projeto 2: Configuração de Servidores Seguros](link-para-o-repo)**
-  - Passo a passo para configurar servidores com foco em segurança, utilizando ferramentas como Apache2, Ubuntu Server, e mais.
 
+- **[Projeto 2: Explorando Vulnerabilidades Web com BurpSuite](https://github.com/pedro-canafistula/Pentest-Web-Explorando-com-Burpsuite)** (Em desenvolvimento)
+  - Um Pentest Web de ponta a ponta em uma aplicação vulnerável (DVWA), seguindo a metodologia PTES, com foco na exploração de SQLi e XSS usando Burp Suite para a criação de PoCs e a entrega de um relatório técnico e executivo.
+<!--
 - **[Projeto 3: Testes de Penetração em Ambientes Virtuais](link-para-o-repo)**
   - Realização de testes de penetração em ambientes controlados, explorando técnicas de ataque e defesa. -->
 
