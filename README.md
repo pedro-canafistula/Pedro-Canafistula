@@ -5,7 +5,7 @@
 
 ## Sobre Mim
 
-Sou estudante do quarto semestre de **Ciência da Computação** na **Universidade Católica de Brasília (UCB)**, com 20 anos de idade e uma paixão crescente por **cibersegurança**. Meu objetivo é utilizar minhas habilidades para resolver problemas complexos e contribuir para a segurança digital.
+Sou estudante do quarto semestre de **Ciência da Computação** na **Universidade Católica de Brasília (UCB)**, com 21 anos de idade e uma paixão crescente por **cibersegurança**. Meu objetivo é utilizar minhas habilidades para resolver problemas complexos e contribuir para a segurança digital.
 
 ## Objetivo
 
